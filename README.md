@@ -19,3 +19,6 @@ Now that I have given your presentation to my executive team, I need to create a
 
 ### Task 4
 I’ve successfully gotten my blog post out, which has started to be shared with local news outlets and I have seen it shared on various platforms. While somewhat controversial in the data visualization world, I have been diligently working on an infographic that has nice clear, creative visuals that help articulate the message and inform the public what the real story is! This audience is likely standing in line and would see this infographic on a wall or is scrolling on their phone quickly – so grabbing their attention is key and making sure the visualizations makes sense is the only way I can change their opinion or inform them of what is really going on.
+
+### Task 5
+My final task is to help spread the word on the truth about what I have found and represent my Airline via a short 3-minute presentation that combines the 3-minute story and the Big Idea as described in Chapter 1 of Storytelling with Data.  The premise of the 3-minute story is that I must find a way to convey everything I need to in that short timeframe, which I do using any of the previous media that I have created or something brand new.
