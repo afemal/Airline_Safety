@@ -23,6 +23,6 @@ I’ve successfully gotten my blog post out, which has started to be shared with
 ### Task 5
 My final task is to help spread the word on the truth about what I have found and represent my Airline via a short 3-minute presentation that combines the 3-minute story and the Big Idea as described in Chapter 1 of Storytelling with Data.  The premise of the 3-minute story is that I must find a way to convey everything I need to in that short timeframe, which I do using any of the previous media that I have created or something brand new.
 
-![airlinesafety](https://user-images.githubusercontent.com/61814648/120753248-bd614c00-c4bf-11eb-99c1-bcf56f6980be.png)
+#### Presentation
 [![airlinesafety](https://user-images.githubusercontent.com/61814648/120753248-bd614c00-c4bf-11eb-99c1-bcf56f6980be.png)](https://youtu.be/wTzL3lEK3Iw)
 
